@@ -25,3 +25,7 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+
+*.a
+*.so
+*.weights
